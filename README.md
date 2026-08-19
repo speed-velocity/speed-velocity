@@ -19,19 +19,8 @@
 ```
 CLASS ........... CSE Undergrad (ITER, SOA) + B.Sc Data Science (IIT Madras)
 BASE .............Jamshedpur, Jharkhand, IN
-GUILD ............ Open Source (SSoC) · GfG Campus Mantri
-SIDE QUEST ....... 3-piece band — concept: entropy, chaos, personal experience
-```
 
 ```
-JAVA / DSA       ████████████████░░░░  80%
-MERN STACK       ██████████████░░░░░░  70%
-OPEN SOURCE      ████████████░░░░░░░░  60%
-MUSIC PROD       ██████████░░░░░░░░░░  50%
-CHESS.EXE        ████████████████░░░░  80%
-```
-
----
 
 <div align="center">
 
